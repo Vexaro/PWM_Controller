@@ -1,0 +1,23 @@
+# STM32CubeIDE build files
+/Debug/
+/Release/
+/Core/Inc/*.o
+/Core/Src/*.o
+*.elf
+*.map
+*.bin
+*.hex
+
+# CubeIDE project metadata (optional, can track if you want to share project settings)
+.cproject
+.project
+.settings/
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
