@@ -10,6 +10,7 @@
 
 #include <stdint.h>
 #include "stm32f1xx_hal.h"
+#include "main.h"
 
 void setup(void);
 void update(void);
